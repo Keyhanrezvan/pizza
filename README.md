@@ -1,2 +1,0 @@
-# pizza
-Example initial upload
